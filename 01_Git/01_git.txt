@@ -1,0 +1,24 @@
+﻿Работа с git, средствами github.com
+
+	* Понятие систем контроля версий, необходимость их использовать:
+	* 
+		* http://ru.wikipedia.org/wiki/Система_управления_версиями
+		* http://git-scm.com/book/ru/Введение-Об-управлении-версиями
+
+	* Регистрация на сервисе http://github.com/
+	* git: установка 
+	* 
+		* Взять последнюю версию тут: http://code.google.com/p/msysgit/downloads/list
+		* На этапе установки "Adjusting your PATH environment" выбрать вариант "Run Git from Windows Command Prompt", остальное - по умолчанию.
+
+	* Подготовка среды для обучения: сделать форк (http://ru.wikipedia.org/wiki/Форк) репозитория https://github.com/MChemodanov/sandbox/fork
+	* git: основы работы в консоли (в качестве репозитория использовать свой форк https://github.com/MChemodanov/sandbox/)
+	* 
+		* http://git-scm.com/book/ru/Основы-Git-Создание-репозитория-Git
+		* http://git-scm.com/book/ru/Основы-Git-Запись-изменений-в-репозиторий
+		* http://git-scm.com/book/ru/Основы-Git-Просмотр-истории-коммитов
+		* http://git-scm.com/book/ru/Основы-Git-Отмена-изменений
+		* Проработать команды pull и push: http://git-scm.com/book/ru/Основы-Git-Работа-с-удалёнными-репозиторями
+
+	* tortoisegit - графический интерфейс для git (Windows)
+		* Инструкция по git вообще и по tortoise git в частности: https://github.com/MChemodanov/CppLectures/raw/master/01_Git/Работа%20с%20Git.pdf
